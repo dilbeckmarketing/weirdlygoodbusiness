@@ -21,7 +21,7 @@
     "versionPublish": "4.6.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2018-08-03-at-3.35.46-pm-128x137.png",
     "noImageResize": "",
     "siteUrl": "undefined"
   },
