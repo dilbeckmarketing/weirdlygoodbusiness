@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Weirdly Good Guide - B",
+    "name": "Address Book to Actual Business",
     "currentPage": "index.html",
     "theme": {
       "name": "unicore",
@@ -18,12 +18,13 @@
     },
     "versionFirst": "4.6.7",
     "uniqCompNum": 2,
-    "versionPublish": "4.6.7",
+    "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2018-08-03-at-3.35.46-pm-128x137.png",
+    "favicon": "@PROJECT_PATH@/assets/images/img-3912-128x128.png",
     "noImageResize": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -44,7 +45,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/istock-640286454-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rahul-chakraborty-460018-unsplash-2000x2000.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -57,8 +58,8 @@
             "overlayOpacity": 0.75,
             "showIcons": true,
             "iconsColor": "#fff",
-            "icon1": "fa-bolt",
-            "icon2": "fa-magnet"
+            "icon1": "fa-check",
+            "icon2": "fa-check"
           },
           "title": "Get the Guide",
           "title1": "Turn Your Address Book<br>Into Actual Business",
@@ -66,7 +67,7 @@
           "title3": "set up a contact schedule proven to get you business&nbsp;",
           "text1": "Everyone you know just may be in your Sphere of Influence and can be added to your list of potential clients! That's crazy right? Learn how to organize and leverage these contacts to get you business in your first year!",
           "text2": "Getting business in your first year isn't impossible. In fact, it's as easy as being consistent, reaching out to the right people, and providing the right information. Learn how!",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Weirdly Good Awaits!</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Actual business Awaits!</a>",
           "form": {
             "title": "MESSAGE",
             "action": "ashleydray3@gmail.com",
@@ -127,7 +128,7 @@
             }
           },
           "title1": "Dilbeck real estate",
-          "text1": "A family owned real estate company helping neighbors create new beginnings and lasting memories throughout SoCal since 1950.<br><br>",
+          "text1": "A family owned real estate company helping neighbors create new beginnings and lasting memories throughout SoCal since 1950.<br>License: 01345642<br><br>",
           "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-twitter\"></i></a>   <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
           "text2": "Working Hours:<br>Mon - Fri &nbsp; 9AM - 6PM",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-ico\">Send Message<i class=\"fa fa-paper-plane-o\"></i></a>",
